@@ -12,3 +12,4 @@ npm i --save-dev dotenv
 https://dashboard.heroku.com/
 otuIGNyBWoFF3ZKW
 mongodb+srv://user:<password>@cluster0-ce8gv.mongodb.net/test?retryWrites=true&w=majority
+https://www.youtube.com/watch?v=qj2oDkvc4dQ&list=PLZlA0Gpn_vH8jbFkBjOuFjhxANC63OmXM&index=5
