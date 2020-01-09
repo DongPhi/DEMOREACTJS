@@ -9,6 +9,8 @@ npm i --save-dev nodemon
 npm i mongoose
 npm i --save-dev dotenv
 
+npm i body-parser
+
 https://dashboard.heroku.com/
 otuIGNyBWoFF3ZKW
 mongodb+srv://user:<password>@cluster0-ce8gv.mongodb.net/test?retryWrites=true&w=majority
